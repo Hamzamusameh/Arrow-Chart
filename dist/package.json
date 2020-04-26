@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Hamza Musameh","email":"hamzamusameh2@gmail.com"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/arrowChart18DE516D5F17458FA1212E6BBF317186.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"Arrow Chart","displayName":"ArrowChart","guid":"arrowChart18DE516D5F17458FA1212E6BBF317186","visualClassName":"Visual","version":"1.0.0","description":"Custom arrow chart","supportUrl":"test","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}

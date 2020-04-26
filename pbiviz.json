@@ -1,0 +1,24 @@
+{
+  "visual": {
+    "name": "Arrow Chart",
+    "displayName": "ArrowChart",
+    "guid": "arrowChart18DE516D5F17458FA1212E6BBF317186",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "Custom arrow chart",
+    "supportUrl": "test",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "2.6.0",
+  "author": { "name": "Hamza Musameh", "email": "hamzamusameh2@gmail.com" },
+  "assets": { "icon": "assets/arrow-icon.png" },
+  "externalJS": [
+    "node_modules/jquery/dist/jquery.slim.js",
+    "node_modules/popper.js/dist/umd/popper.js",
+    "node_modules/bootstrap/dist/js/bootstrap.js"
+  ],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": null,
+  "stringResources": []
+}
